@@ -1,7 +1,7 @@
 \utype = spec:Spectrum
-\tblFilePath = ${temp-files}/41B/multi_spectrum_ce78a0e7fa117d31fbb1a43e250eb87d.duckdb
+\tblFilePath = ${temp-files}/148/multi_spectrum_b99c1d3bfae77bf73cb981d66ab97cef.duckdb
 \tblFileType = duckdb
-\tbl_id = 
+\tbl_id = Spec-photo-tbl-tbl_id-c921-680
 \utype = spec:Spectrum
 \col.deep_flg.type = boolean
 \col.det_id.type = short
